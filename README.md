@@ -13,3 +13,5 @@ Character Panel Refined 精炼删除了角色面板中无用的信息，同时�
 ### Steps to build（汉化）
 
 ~~商业机密防小店~~
+
+# 都快同步了还搞什么汉化
